@@ -1,2 +1,2 @@
 # Portofolio
-My portofolio, mostly from my End-of-Semeter Projects
+Hello, i'm Marco Bennedict Makin and currently i am a student of Bina Nusantara University majoring in Computer Science, under the faculty of School of Computer Science. The purpose of this repository is to show what i'm capable of doing by showing my works, ranging from Computational Network, to Software Engineering, in which you can see at the top. Thank u for visiting this repo beforehand!
